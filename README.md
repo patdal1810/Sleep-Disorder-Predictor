@@ -4,7 +4,7 @@
 A full-stack **machine learning portfolio project** that predicts sleep disorder categories and explains *why* the prediction was made.
 
 ### Input Form
-![Sleep Disorder Predictor Form](screenshots/vid.mov)
+![Sleep Disorder Predictor Form](screenshots/image_1.png)
 
 The system combines:
 - A **scikit-learn RandomForest model** for prediction
