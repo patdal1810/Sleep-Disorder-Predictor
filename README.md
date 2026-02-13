@@ -1,7 +1,7 @@
 # Sleep Disorder Predictor  
 ### RandomForest + SHAP + LLM (FastAPI)
 
-A full-stack **machine learning portfolio project** that predicts sleep disorder categories and explains *why* the prediction was made.
+ML model predicting sleep disorders using lifestyle & health metrics. Built with scikit-learn, deployed as full-stack website achieving **87% accuracy**. This model does not just predict but also explains *why* the prediction was made.
 
 ### Input Form
 ![Sleep Disorder Predictor Form](screenshorts/image_1.png)
